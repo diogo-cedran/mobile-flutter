@@ -1,0 +1,49 @@
+Atividade 01
+
+O framework Flutter utiliza a linguagem Dart com o paradigma de Programação Orientada a Objetos para construção de interfaces/layout das telas. Isso significa que cada elemento em tela será um “componente”, ou seja, uma classe que será capaz de representar características hierárquicas e dinâmicas do layout para exibir na tela do dispositivo. Esses “componentes” são chamados de Widget.
+
+O Flutter disponibiliza algumas classes para estruturar interfaces/layouts e permite que o desenvolvedor crie outros “componentes” retornando também um tipo Widget.
+
+Requisitos:
+1. Criar uma tela com o MaterialApp.
+2. Utilizar o Widget Card.
+3. Utilizar o Widget ListView (de forma estática).
+
+Tema: Aplicação Bancária.
+
+---
+
+Atividade 02
+
+A linguagem Dart (utilizada no Flutter) utiliza o paradigma de Programação Orientada a Objetos (POO), ou seja, todos os conceitos disponíveis neste paradigma podem (e devem) ser utilizados no desenvolvimento de aplicações em Dart. O conceito de Tipos Genéricos está muito presente nas aplicações que utilizam POO, mantendo o software modular e reutilizável.
+
+Requisitos:
+1. Crie uma aplicação em Dart que utilize os conceitos de Generics.
+2. Escreva testes unitários para comprovar que o software funciona.
+3. O tema (regra de negócio) será uma aplicação bancária.
+
+---
+
+Atividade 03
+
+O framework Flutter utiliza basicamente dois tipos fundamentais de widgets, e entender a diferença entre eles é essencial para construir interfaces de usuário responsivas e dinâmicas.
+
+Requisitos:
+1. Criar uma tela com um formulário simples.
+2. Utilizar o Widget ListView (de forma dinâmica).
+
+Tema: Aplicação Bancária.
+
+---
+
+Atividade 04
+
+O framework Flutter utiliza basicamente dois tipos fundamentais de widgets, e entender a diferença entre eles é essencial para construir interfaces de usuário responsivas e dinâmicas.
+
+Requisitos:
+1. Criar uma tela com um formulário.
+2. Criar uma tela com uma lista com os elementos do formulário.
+3. Será um “CRUD” em memória (sem persistência).
+4. Utilize o MaterialPageRoute para navegar entre as telas.
+
+Tema: Aplicação Bancária.
